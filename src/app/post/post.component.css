@@ -1,0 +1,15 @@
+/* Center the form inside the container */
+.container {
+    height: 40vh;
+  }
+  
+  /* Form wrapper styles */
+  .form-wrapper {
+    max-width: 400px;
+    width: 100%;
+    background-color: #f8f9fa; /* Light background */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional shadow for better visibility */
+  }
+  
